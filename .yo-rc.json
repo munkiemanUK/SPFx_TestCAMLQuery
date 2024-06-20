@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.17.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.0",
+    "libraryName": "test-caml-query",
+    "libraryId": "4f0da44d-ca51-4f31-9237-1db26aed23ba",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "TestCAMLQuery",
+    "solutionShortDescription": "TestCAMLQuery description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
